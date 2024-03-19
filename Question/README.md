@@ -185,7 +185,9 @@ jsteg hide <in.jpg> <secret file name> <out.jpg>
 
 
 > 2560*1440 = 36,86,400
+
 > 36,86,400 / 8 = 4,60,800
+
 > It is the maximum payload jsteg can embed.
 
 # 5.	Calculate the psnr for the stego image, do visual attack and histogram attack after jsteg
